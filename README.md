@@ -1,5 +1,5 @@
 # AstroPool
-Ever since education became available to ordinary people, teach-
+  Ever since education became available to ordinary people, teach-
 ing has become increasingly difficult. Whether because of limited
 resources, poor training of teachers or the high number of students
 compared to teachers, students who have trouble learning from a
@@ -18,3 +18,5 @@ will hopefully encourage students to start using it.
 
 
 To import the Unity project, create a new project and copy-paste the "Assets" and "ProjectSettings" folders in the folder of the new project.
+
+To use the app, install the .apk file on your Android device (you might need to change some settings to allow you to install from unkown sources).
